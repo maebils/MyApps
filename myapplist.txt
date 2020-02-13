@@ -6,6 +6,6 @@
       "appicon":"https://raw.githubusercontent.com/maebils/MyApps/master/AppIcon/picmotion.png",
 
       "appurl":"https://play.google.com/store/apps/details?id=com.ndesapps.picanim"
-    },
+    }
   ]
 }
