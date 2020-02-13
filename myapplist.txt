@@ -1,0 +1,11 @@
+{
+  "apps":
+  [
+   { "appname":"Pic Motion - Photo Animation & Loop Animator",
+
+      "appicon":"https://raw.githubusercontent.com/madhukar3646/myplaystoreappslisting/master/My%20apps%20Appicons/christamas_photo_frames.webp",
+
+      "appurl":"https://play.google.com/store/apps/details?id=com.ndesapps.picanim"
+    },
+  ]
+}
